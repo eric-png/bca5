@@ -1,0 +1,19 @@
+.
+
+/* style.css */
+/* This stylesheet is used to style the HTML elements of the website for Bear */
+
+body {
+  font-family: sans-serif; /* Sets the font to a sans-serif font */
+  background-color: #f2f2f2; /* Sets the background color to a light gray */
+  text-align: center; /* Centers the text on the page */
+}
+
+h1 {
+  font-size: 2em; /* Sets the font size of the h1 element to 2em */
+  color: #3f3f3f; /* Sets the color of the h1 element to a dark gray */
+}
+
+img {
+  border-radius: 50%; /* Rounds the corners of the image */
+}
